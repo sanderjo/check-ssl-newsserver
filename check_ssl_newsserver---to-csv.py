@@ -6,6 +6,8 @@ import traceback
 # Manual stuff:
 # openssl s_client -connect news.eweka.nl:563
 # openssl s_client -connect news.giganews.com:563
+# gnutls-cli -p 563 news.eweka.nl
+# gnutls-cli -p 563 news6.newshosting.com
 
 def check_NNTPS_server(servername,serverport,strict):
 	'''
