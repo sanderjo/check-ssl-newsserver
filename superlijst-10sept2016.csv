@@ -1,0 +1,1341 @@
+"reader.123usenet.nl","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.123usenet.nl' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"news.123usenet.nl","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.123usenet.nl' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"123usenet.nl","IPv4-only","No SSL/TLS connection"
+"reader.4ux.nl","IPv4-only","No SSL/TLS connection"
+"news.4ux.nl","IPv4-only","TLSv1.2","200 Welcome to 4 Usenet Xs","OK","OK","OK","-","-"
+"ssl.4ux.nl","IPv4-only","No SSL/TLS connection"
+"ssl-eu.4ux.nl","IPv4-only","No SSL/TLS connection"
+"ssl-us.4ux.nl","IPv4-only","No SSL/TLS connection"
+"eu.4ux.nl","IPv4-only","No SSL/TLS connection"
+"us.4ux.nl","IPv4-only","No SSL/TLS connection"
+"download.4ux.nl","IPv4-only","No SSL/TLS connection"
+"4ux.nl","IPv4-only","No SSL/TLS connection"
+"reader.abook.ws","IPv4-only","No SSL/TLS connection"
+"news.abook.ws","IPv4-only","No SSL/TLS connection"
+"ssl.abook.ws","IPv4-only","No SSL/TLS connection"
+"ssl-eu.abook.ws","IPv4-only","No SSL/TLS connection"
+"ssl-us.abook.ws","IPv4-only","No SSL/TLS connection"
+"eu.abook.ws","IPv4-only","No SSL/TLS connection"
+"us.abook.ws","IPv4-only","No SSL/TLS connection"
+"download.abook.ws","IPv4-only","No SSL/TLS connection"
+"abook.ws","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.aeton.nl","IPv4-only","TLSv1.2","201 reader.ateon.nl (frontend-F04-02) Server Ready -","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"aeton.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.alibis.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx41.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.alibis.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"alibis.com","IPv4-only","No SSL/TLS connection"
+"reader.altbinaries.com","IPv4-only","No SSL/TLS connection"
+"news.altbinaries.com","IPv4-only","TLSv1.2","200 Welcome (fx33.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.altbinaries.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl.altbinaries.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx09.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'ssl.altbinaries.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl-eu.altbinaries.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.altbinaries.com","IPv4-only","No SSL/TLS connection"
+"eu.altbinaries.com","IPv4-only","No SSL/TLS connection"
+"us.altbinaries.com","IPv4-only","No SSL/TLS connection"
+"download.altbinaries.com","IPv4-only","No SSL/TLS connection"
+"altbinaries.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.altopia.com","IPv4-only","TLSv1.2","200 Check out http://www.altopia.com/ for info about NNTP access (posting ok).","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"altopia.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.anarqy.com","IPv4-only","TLSv1","200 Welcome NNTPSwitch-0.12, 112178 groups available, posting allowed, slot 21, connections 17","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"anarqy.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.anonynews.com","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx19.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.anonynews.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"anonynews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.apple.com","IPv4-only","No SSL/TLS connection"
+"ssl.apple.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"apple.com","IPv4-only","No SSL/TLS connection"
+"reader.astinews.de","IPv4-only","TLSv1.2","200 Welcome to Yabnews","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.astinews.de' doesn't match either of 'news.yabnews.nl', 'www.news.yabnews.nl'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"astinews.de","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.astraweb.com","IPv4-only","No SSL/TLS connection"
+"ssl.astraweb.com","IPv4-only","TLSv1","200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).","OK","OK","OK","-","-"
+"ssl-eu.astraweb.com","IPv4-only","TLSv1","200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).","OK","OK","OK","-","-"
+"ssl-us.astraweb.com","IPv4-only","TLSv1","200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"astraweb.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.atlantisnews.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx42.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.atlantisnews.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"atlantisnews.com","IPv4-only","No SSL/TLS connection"
+"reader.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"news.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"ssl.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"eu.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"us.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"download.bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+"bargainnewsfeeds.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"baseip.com","IPv4-IPv6","No SSL/TLS connection"
+"reader.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"news.binaryboy.com","IPv4-IPv6","No SSL/TLS connection"
+"ssl.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"eu.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"us.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"download.binaryboy.com","IPv4-only","No SSL/TLS connection"
+"binaryboy.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.bintube.com","IPv4-only","TLSv1.2","200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled). (fx29.fr7)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.bintube.com' doesn't match either of 'eu.bintube.com', 'www.eu.bintube.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.bintube.com","IPv4-only","TLSv1.2","200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled). (fx31.fr7)","OK","OK","OK","-","-"
+"us.bintube.com","IPv4-only","TLSv1.2","200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled). (fx02.iad)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+"bintube.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.bitusenet.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx40.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.bitusenet.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"bitusenet.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"blocknews.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.budgetnews.net","IPv4-only","TLSv1.2","200 Welcome to budgetnews.net (fx38.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"budgetnews.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.bulknews.eu","IPv4-IPv6","TLSv1.2","200 Welcome to Bulknews","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"bulknews.eu","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.cheapnews.eu","IPv4-IPv6","TLSv1.2","200 Welcome to Cheapnews","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"cheapnews.eu","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.chundle.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx45.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.chundle.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"chundle.com","IPv4-only","No SSL/TLS connection"
+"reader.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"news.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"ssl.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"ssl-eu.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"ssl-us.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"eu.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"us.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"download.codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"codeshy.com","IPv4-IPv6","No SSL/TLS connection"
+"reader.couchpota.to","IPv4-only","No SSL/TLS connection"
+"news.couchpota.to","IPv4-only","No SSL/TLS connection"
+"ssl.couchpota.to","IPv4-only","No SSL/TLS connection"
+"ssl-eu.couchpota.to","IPv4-only","No SSL/TLS connection"
+"ssl-us.couchpota.to","IPv4-only","No SSL/TLS connection"
+"eu.couchpota.to","IPv4-only","No SSL/TLS connection"
+"us.couchpota.to","IPv4-only","No SSL/TLS connection"
+"download.couchpota.to","IPv4-only","No SSL/TLS connection"
+"couchpota.to","IPv4-only","No SSL/TLS connection"
+"reader.co.uk","IPv4-only","No SSL/TLS connection"
+"news.co.uk","IPv4-only","No SSL/TLS connection"
+"ssl.co.uk","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.co.uk","IPv4-only","No SSL/TLS connection"
+"us.co.uk","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"reader.co.za","IPv4-only","No SSL/TLS connection"
+"news.co.za","IPv4-only","No SSL/TLS connection"
+"ssl.co.za","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.co.za","IPv4-only","No SSL/TLS connection"
+"us.co.za","IPv4-only","No SSL/TLS connection"
+"download.co.za","IPv4-only","No SSL/TLS connection"
+"co.za","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"dognzb.cr","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"dozenzb.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.easynews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"easynews.com","IPv4-only","No SSL/TLS connection"
+"reader.easyusenet.nl","IPv4-only","TLSv1.2","200 Welcome to Easyusenet","OK","OK","OK","-","-"
+"news.easyusenet.nl","IPv4-only","TLSv1.2","200 Welcome to Easyusenet","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"easyusenet.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"ensnews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.eweka.nl","IPv4-only","TLSv1.2","200 Welcome to Eweka (fx10.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eweka.nl","IPv4-only","No SSL/TLS connection"
+"reader.extremeusenet.nl","IPv4-only","TLSv1.2","200 Welcome to ExtremeUsenet","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.extremeusenet.nl' doesn't match either of 'www.news.extremeusenet.nl', 'news.extremeusenet.nl'"
+"news.extremeusenet.nl","IPv4-only","TLSv1.2","200 Welcome to ExtremeUsenet","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"extremeusenet.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"ssl.facebook.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.facebook.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"facebook.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.fastusenet.org","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx03.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.fastusenet.org' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"fastusenet.org","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.firstload.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.firstload.com","IPv4-only","No SSL/TLS connection"
+"firstload.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.flashnewsgroups.com","IPv4-only","TLSv1","200 flashnewsgroups-ssl","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"flashnewsgroups.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.forteinc.com","IPv4-only","TLSv1.2","200 Welcome to Forte Premium.  Please Authenticate. (fx46.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.forteinc.com","IPv4-only","No SSL/TLS connection"
+"forteinc.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.frugalusenet.com","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx24.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.frugalusenet.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"frugalusenet.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.gebruikhet.net","IPv4-only","TLSv1.2","200 Welcome to Bullcat","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.gebruikhet.net' doesn't match either of 'download.gebruikhet.net', 'www.download.gebruikhet.net'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.gebruikhet.net","IPv4-IPv6","TLSv1.2","200 Welcome to Bullcat","OK","OK","OK","-","-"
+"gebruikhet.net","IPv4-only","No SSL/TLS connection"
+"reader.getnzb.com","IPv4-only","No SSL/TLS connection"
+"news.getnzb.com","IPv4-only","No SSL/TLS connection"
+"ssl.getnzb.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.getnzb.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.getnzb.com","IPv4-only","No SSL/TLS connection"
+"eu.getnzb.com","IPv4-only","No SSL/TLS connection"
+"us.getnzb.com","IPv4-only","No SSL/TLS connection"
+"download.getnzb.com","IPv4-only","No SSL/TLS connection"
+"getnzb.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.giganews.com","IPv4-only","TLSv1.2","200 News.GigaNews.Com","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"giganews.com","IPv4-only","No SSL/TLS connection"
+"reader.github.com","IPv4-only","No SSL/TLS connection"
+"news.github.com","IPv4-only","No SSL/TLS connection"
+"ssl.github.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.github.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.github.com","IPv4-only","No SSL/TLS connection"
+"eu.github.com","IPv4-only","No SSL/TLS connection"
+"us.github.com","IPv4-only","No SSL/TLS connection"
+"download.github.com","IPv4-only","No SSL/TLS connection"
+"github.com","IPv4-only","No SSL/TLS connection"
+"reader.google.com","IPv4-IPv6","No SSL/TLS connection"
+"news.google.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.google.com","IPv4-IPv6","No SSL/TLS connection"
+"google.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"highwinds.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.hitnews.com","IPv4-only","TLSv1.2","200 Welcome to hitnews.com (fx45.am4)","OK","OK","OK","-","-"
+"ssl.hitnews.com","IPv4-only","TLSv1.2","200 Welcome to hitnews.com (fx37.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"us.hitnews.com","IPv4-only","TLSv1.2","200 Welcome to hitnews.com (fx42.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+"hitnews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.illiminews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"illiminews.com","IPv4-only","No SSL/TLS connection"
+"reader.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"news.iload-usenet.com","IPv4-IPv6","No SSL/TLS connection"
+"ssl.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"eu.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"us.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"download.iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"iload-usenet.com","IPv4-only","No SSL/TLS connection"
+"reader.i-telligent.com","IPv4-only","TLSv1.2","200 Welcome to I-telligent NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 83, connections 1","OK","OK","OK","-","-"
+"news.i-telligent.com","IPv4-only","TLSv1.2","200 Welcome to I-telligent NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 83, connections 1","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"i-telligent.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"lad1337.de","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"maraschinoproject.com","IPv4-only","No SSL/TLS connection"
+"reader.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"news.maximumusenet.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx46.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.maximumusenet.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"eu.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"us.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"download.maximumusenet.com","IPv4-only","No SSL/TLS connection"
+"maximumusenet.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.megabitz.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"reader.mijnusenet.nl","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.mijnusenet.nl' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"news.mijnusenet.nl","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.mijnusenet.nl' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"mijnusenet.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.mozilla.org","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.mozilla.org","IPv4-only","No SSL/TLS connection"
+"mozilla.org","IPv4-only","No SSL/TLS connection"
+"reader.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"news.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"ssl.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"ssl-eu.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"ssl-us.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"eu.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"us.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"download.netfeeds.net","IPv4-only","No SSL/TLS connection"
+"netfeeds.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsbin.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsbin.com","IPv4-only","No SSL/TLS connection"
+"reader.newsconnection.eu","IPv4-only","TLSv1.2","200 Welcome to Snellerdownloaden","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.newsconnection.eu' doesn't match either of 'reader.newsconnection.nl', 'www.reader.newsconnection.nl'"
+"news.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"ssl.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"ssl-eu.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"ssl-us.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"eu.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"us.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"download.newsconnection.eu","IPv4-only","No SSL/TLS connection"
+"newsconnection.eu","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsdemon.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx43.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.newsdemon.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.newsdemon.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx17.fr7)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'eu.newsdemon.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"us.newsdemon.com","IPv4-only","TLSv1.2","200 Welcome (fx05.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.newsdemon.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"newsdemon.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"ssl.newsfusion.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx28.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'ssl.newsfusion.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.newsfusion.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx35.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'eu.newsfusion.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"us.newsfusion.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx08.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.newsfusion.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"newsfusion.net","IPv4-only","No SSL/TLS connection"
+"reader.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"news.newsgrabber.nl","IPv4-only","TLSv1.2","200 Welcome to newsgrabber.nl NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 140, connections 1","OK","OK","OK","-","-"
+"ssl.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"ssl-eu.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"ssl-us.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"eu.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"us.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"download.newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+"newsgrabber.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsgroup-binaries.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.newsgroup-binaries.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsgroup-binaries.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsgroupdirect.com","IPv4-only","TLSv1.2","200 Welcome (fx01.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.newsgroupdirect.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"us.newsgroupdirect.com","IPv4-only","TLSv1.2","200 Welcome (fx27.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.newsgroupdirect.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"newsgroupdirect.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsgroup.ninja","IPv4-IPv6","TLSv1.2","200 Welcome (fx42.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.newsgroup.ninja' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsgroup.ninja","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsgroups-download.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsguy.com","IPv4-only","TLSv1","","NOK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsguy.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newshosting.com","IPv4-only","TLSv1.2","200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com (fx44.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newshosting.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsleecher.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx20.fr7)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.newsleecher.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.newsleecher.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx40.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'eu.newsleecher.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"us.newsleecher.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx42.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.newsleecher.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"newsleecher.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsrazor.net","IPv4-only","TLSv1.2","200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com (fx46.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.newsrazor.net' doesn't match either of '*.newshosting.com', 'newshosting.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsrazor.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.newsreader.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsreader.com","IPv4-only","No SSL/TLS connection"
+"reader.newsxs.nl","IPv4-only","TLSv1.2","200 Welcome to NewsXS NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 119, connections 1","OK","OK","OK","-","-"
+"news.newsxs.nl","IPv4-only","TLSv1.2","200 Welcome to NewsXS NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 185, connections 1","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newsxs.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"newznab.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"ngprovider.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.ngroups.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx37.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.ngroups.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.ngroups.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx44.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'eu.ngroups.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"us.ngroups.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx22.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.ngroups.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"ngroups.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.nntpjunkie.com","IPv4-only","TLSv1","","NOK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"nntpjunkie.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"nzb360.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"nzbget.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"nzbin.info","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"nzb.su","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"oznzb.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.panic.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx44.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.panic.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.panic.com","IPv4-only","No SSL/TLS connection"
+"panic.com","IPv4-only","No SSL/TLS connection"
+"reader.powernews.nl","IPv4-only","TLSv1.2","200 Welcome to Easyusenet","OK","OK","NOK","socket.timeout","timeout: timed out"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"powernews.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.powerusenet.com","IPv4-only","TLSv1.2","200 Power Usenet - Unlimited USENET Power!","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"powerusenet.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"premiumnews.de","IPv4-only","No SSL/TLS connection"
+"reader.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"news.prepaid-usenet.de","IPv4-IPv6","No SSL/TLS connection"
+"ssl.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"ssl-eu.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"ssl-us.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"eu.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"us.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"download.prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+"prepaid-usenet.de","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.pureusenet.nl","IPv4-only","TLSv1.2","200 news.pureusenet.nl NNRP Service Ready - support@pureusenet.nl","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"pureusenet.nl","IPv4-only","No SSL/TLS connection"
+"reader.readnews.com","IPv4-only","No SSL/TLS connection"
+"news.readnews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"readnews.com","IPv4-only","No SSL/TLS connection"
+"reader.reddit.com","IPv4-only","No SSL/TLS connection"
+"news.reddit.com","IPv4-only","No SSL/TLS connection"
+"ssl.reddit.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.reddit.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.reddit.com","IPv4-only","No SSL/TLS connection"
+"eu.reddit.com","IPv4-only","No SSL/TLS connection"
+"us.reddit.com","IPv4-only","No SSL/TLS connection"
+"download.reddit.com","IPv4-only","No SSL/TLS connection"
+"reddit.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"ssl.redditgifts.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"redditgifts.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.redorbnews.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.redorbnews.com","IPv4-IPv6","No SSL/TLS connection"
+"us.redorbnews.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"redorbnews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.rhinonewsgroups.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"rhinonewsgroups.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"sabnzbd.org","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"us.secretusenet.com","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx41.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.secretusenet.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"download.secretusenet.com","IPv4-only","No SSL/TLS connection"
+"secretusenet.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.shemes.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.shemes.com","IPv4-only","No SSL/TLS connection"
+"shemes.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"sickbeard.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.simonews.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"simonews.com","IPv4-only","No SSL/TLS connection"
+"reader.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"news.smsusenet.nl","IPv4-only","TLSv1.2","200 Welcome to SMS Usenet","OK","OK","OK","-","-"
+"ssl.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"ssl-eu.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"ssl-us.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"eu.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"us.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"download.smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"smsusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+"reader.snelnl.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx45.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.snelnl.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"news.snelnl.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx39.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.snelnl.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl.snelnl.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"snelnl.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"download.sonarr.tv","IPv4-only","No SSL/TLS connection"
+"sonarr.tv","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.sonic-news.com","IPv4-only","TLSv1","200 Welcome NNTPSwitch-0.12, 112178 groups available, posting allowed, slot 6, connections 3","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"sonic-news.com","IPv4-only","No SSL/TLS connection"
+"reader.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"news.speedplaza.net","IPv4-only","TLSv1.2","200 Welcome to Speedplaza NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 22, connections 1","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+"ssl.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"ssl-eu.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"ssl-us.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"eu.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"us.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"download.speedplaza.net","IPv4-only","No SSL/TLS connection"
+"speedplaza.net","IPv4-only","No SSL/TLS connection"
+"reader.ssl-news.info","IPv4-only","TLSv1.2","200 Welcome to SSL News","OK","OK","OK","-","-"
+"news.ssl-news.info","IPv4-only","TLSv1.2","200 Welcome to SSL News","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.ssl-news.info' doesn't match 'reader.ssl-news.info'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.ssl-news.info","IPv4-only","TLSv1.2","200 Welcome to SSL News","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'eu.ssl-news.info' doesn't match 'reader.ssl-news.info'"
+"us.ssl-news.info","IPv4-only","TLSv1.2","200 Welcome to SSL News","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.ssl-news.info' doesn't match 'reader.ssl-news.info'"
+No input, no valid host, or other error
+"ssl-news.info","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.sunnyusenet.com","IPv4-only","TLSv1.2","200 news.sunnyusenet.com NNRP Service Ready - support@sunnyusenet.com","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"sunnyusenet.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.supernews.com","IPv4-only","TLSv1.2","200 Supernews server ready","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"supernews.com","IPv4-only","No SSL/TLS connection"
+"reader.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"news.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"ssl.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"eu.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"us.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"download.supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+"supernewsfeed.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.surfino.com","IPv4-only","TLSv1.2","200 Welcome to Treonet NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 75, connections 1","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+"ssl.surfino.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"surfino.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.thecubenet.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"thecubenet.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.thenewsgroups.com","IPv4-only","No SSL/TLS connection"
+"ssl.thenewsgroups.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx26.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'ssl.thenewsgroups.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"thenewsgroups.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.thundernews.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx45.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.thundernews.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.thundernews.com","IPv4-IPv6","No SSL/TLS connection"
+"us.thundernews.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx33.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.thundernews.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"thundernews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"transxs.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.tweaknews.eu","IPv4-only","TLSv1.2","200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"tweaknews.eu","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.united-newsserver.de","IPv4-only","TLSv1","200 news6-2.united-newsserver.de NNRP Service Ready (posting ok).","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+"ssl.united-newsserver.de","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"news.usebits.net","IPv4-only","TLSv1.2","200 Welcome to Yabnews","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usebits.net' doesn't match either of 'news.yabnews.nl', 'www.news.yabnews.nl'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usebits.net","IPv4-only","No SSL/TLS connection"
+"reader.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"news.usenet4u.nl","IPv4-only","TLSv1.2","200 Welcome (fx39.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenet4u.nl' doesn't match 'news4.usenet4u.nl'"
+"ssl.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"ssl-eu.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"ssl-us.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"eu.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"us.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"download.usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"usenet4u.nl","IPv4-only","No SSL/TLS connection"
+"reader.usenet-access.com","IPv4-only","No SSL/TLS connection"
+"news.usenet-access.com","IPv4-IPv6","No SSL/TLS connection"
+"ssl.usenet-access.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx23.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'ssl.usenet-access.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl-eu.usenet-access.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.usenet-access.com","IPv4-only","No SSL/TLS connection"
+"eu.usenet-access.com","IPv4-only","No SSL/TLS connection"
+"us.usenet-access.com","IPv4-only","No SSL/TLS connection"
+"download.usenet-access.com","IPv4-only","No SSL/TLS connection"
+"usenet-access.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetbin.net","IPv4-only","No SSL/TLS connection"
+"reader.usenetbucket.com","IPv4-only","TLSv1.2","200 Welcome to usenetbucket","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetbucket.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetbyorder.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenetcentral.com","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx36.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenetcentral.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetcentral.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetcompany.nl","IPv4-only","No SSL/TLS connection"
+"reader.usenetdiscounter.com","IPv4-IPv6","TLSv1.2","200 Welcome to Usenetdiscounter","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetdiscounter.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenet.farm","IPv4-IPv6","TLSv1.2","200 Welcome at Usenet.Farm (ufs1)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenet.farm","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenetmonster.com","IPv4-only","TLSv1.2","200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com (fx40.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenetmonster.com' doesn't match either of '*.newshosting.com', 'newshosting.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"news.usenet.net","IPv4-only","TLSv1.2","200 Usenet.net","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenet.net","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"ssl.usenet-news.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx10.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'ssl.usenet-news.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.usenet-news.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx02.fr7)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'eu.usenet-news.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"us.usenet-news.net","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx14.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'us.usenet-news.net' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+"usenet-news.net","IPv4-only","No SSL/TLS connection"
+"reader.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"news.usenetnewsserver.com","IPv4-IPv6","TLSv1.2","200 Welcome (fx38.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenetnewsserver.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"ssl-eu.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"eu.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"us.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"download.usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+"usenetnewsserver.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenet.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetnow.net","IPv4-only","No SSL/TLS connection"
+"reader.usenet.pro","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.usenet.pro' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"news.usenet.pro","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenet.pro' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenet.pro","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenetrocket.com","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx02.iad)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenetrocket.com' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetrocket.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenet.se","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx42.am4)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.usenet.se' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"ssl.usenet.se","IPv4-only","TLSv1.2","200 Welcome to Usenet (fx27.fr7)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'ssl.usenet.se' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenet.se","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenetserver.com","IPv4-only","TLSv1.2","200 news.usenetserver.com Welcome! (fx39.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetserver.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenet-to-go.de","IPv4-only","TLSv1.2","201 reader.ateon.nl (frontend-F05-08) Server Ready -","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenet-to-go.de","IPv4-only","No SSL/TLS connection"
+"reader.usenetxl.nl","IPv4-only","TLSv1.2","200 Welcome to Yabnews","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.usenetxl.nl' doesn't match either of 'news.yabnews.nl', 'www.news.yabnews.nl'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenetxl.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.usenext.com","IPv4-only","TLSv1.2","200 Welcome to Aviteo Ltd DE","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"usenext.com","IPv4-only","No SSL/TLS connection"
+"reader.voordeligusenet.nl","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.voordeligusenet.nl' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+"news.voordeligusenet.nl","IPv4-only","TLSv1.2","200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'news.voordeligusenet.nl' doesn't match either of '*.sslusenet.com', 'sslusenet.com'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"voordeligusenet.nl","IPv4-only","No SSL/TLS connection"
+"reader.wondernews.eu","IPv4-only","TLSv1.2","200 Welcome to Yabnews","OK","OK","NOK","ssl.CertificateError","CertificateError: hostname 'reader.wondernews.eu' doesn't match either of 'news.yabnews.nl', 'www.news.yabnews.nl'"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"wondernews.eu","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"news.xennews.com","IPv4-only","TLSv1.2","200 Welcome to xennews.com (fx39.am4)","OK","OK","OK","-","-"
+"ssl.xennews.com","IPv4-only","TLSv1.2","200 Welcome to xennews.com (fx43.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"us.xennews.com","IPv4-only","TLSv1.2","200 Welcome to xennews.com (fx01.fr7)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+"xennews.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.xlned.com","IPv4-only","TLSv1.2","200 news.xlned.com NNRP Service Ready - support@xlned.com","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"xlned.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.xlusenet.nl","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"xlusenet.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.xs4all.nl","IPv4-IPv6","No SSL/TLS connection"
+"ssl.xs4all.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"us.xs4all.nl","IPv4-only","No SSL/TLS connection"
+"download.xs4all.nl","IPv4-IPv6","No SSL/TLS connection"
+"xs4all.nl","IPv4-IPv6","No SSL/TLS connection"
+"reader.xsnews.nl","IPv4-only","TLSv1.2","200 Welcome to XS News","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"xsnews.nl","IPv4-IPv6","No SSL/TLS connection"
+"reader.xsusenet.com","IPv4-only","TLSv1.2","200 Welcome (fx36.am4)","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"xsusenet.com","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.yabnews.nl","IPv4-only","TLSv1.2","200 Welcome to Yabnews","OK","OK","OK","-","-"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"yabnews.nl","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"news.z51.biz","IPv4-only","TLSv1.2","200 Welcome to z51.biz NNTPSwitch-SVN-1.2.1, 116788 groups available, posting allowed, slot 10, connections 1","OK","NOK","NOK","ssl.SSLError","SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)"
+No input, no valid host, or other error
+No input, no valid host, or other error
+No input, no valid host, or other error
+"eu.z51.biz","IPv4-IPv6","No SSL/TLS connection"
+"us.z51.biz","IPv4-IPv6","No SSL/TLS connection"
+No input, no valid host, or other error
+"z51.biz","IPv4-only","No SSL/TLS connection"
+"reader.zendesk.com","IPv4-only","No SSL/TLS connection"
+"news.zendesk.com","IPv4-only","No SSL/TLS connection"
+No input, no valid host, or other error
+"ssl-eu.zendesk.com","IPv4-only","No SSL/TLS connection"
+"ssl-us.zendesk.com","IPv4-only","No SSL/TLS connection"
+"eu.zendesk.com","IPv4-only","No SSL/TLS connection"
+"us.zendesk.com","IPv4-only","No SSL/TLS connection"
+"download.zendesk.com","IPv4-only","No SSL/TLS connection"
+"zendesk.com","IPv4-only","No SSL/TLS connection"

@@ -31,7 +31,7 @@ def check_NNTPS_server(servername,serverport,strict):
 				context.check_hostname = True
 			context.load_default_certs()
 
-		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		s = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
 		s.settimeout(3)
 	except:
 		print "you need python 2.7.9 or higher!"
@@ -80,8 +80,6 @@ try:
 
 	# Newsserver we want to checK
 	newsserver = sys.argv[1]
-	socket.getaddrinfo(newsserver, 80)	# will generate an exception if it does not exist (read: resolve)
-
 	#print newsserver,
 	output.append(newsserver)
 
@@ -91,70 +89,49 @@ try:
 
 	# We do 3 levels of Strictness
 
-	try:
-		socket.getaddrinfo(newsserver, 80, socket.AF_INET)
-		IPv4 = True
-	except:
-		IPv4 = False
-	try:
-		socket.getaddrinfo(newsserver, 80, socket.AF_INET6)
-		IPv6 = True
-	except:
-		IPv6 = False
-
-
-	if IPv4 and IPv6: output.append("IPv4-IPv6")
-	if IPv4 and not IPv6: output.append("IPv4-only")
-	if not IPv4 and IPv6: output.append("IPv6-only")
-
 
 	# Strict 0
 	(sslversion, welcomeline, error, mytraceback) = check_NNTPS_server(newsserver, 563,0)
-	if sslversion == "": 
-		output.append("No SSL/TLS connection")
+	output.append(sslversion)
+	output.append(welcomeline)
+	if error <> "":
+		output.append("NOK")
+		firsterror = error
+		firsttraceback = mytraceback
 	else:
+		output.append("OK")
 
 
-		output.append(sslversion)
-		output.append(welcomeline)
-		if error <> "":
-			output.append("NOK")
-			firsterror = error
-			firsttraceback = mytraceback
-		else:
-			output.append("OK")
+	# Strict 1
+	(sslversion, welcomeline, error, mytraceback) = check_NNTPS_server(newsserver, 563,1)
+	if error <> "":
+		output.append("NOK")
+		firsterror = error
+		firsttraceback = mytraceback
+	else:
+		output.append("OK")
+
+	# Strict 2
+	(sslversion, welcomeline, error, mytraceback) = check_NNTPS_server(newsserver, 563,2)
+	if error <> "":
+		output.append("NOK")
+		firsterror = error
+		firsttraceback = mytraceback
+	else:
+		output.append("OK")
 
 
-		# Strict 1
-		(sslversion, welcomeline, error, mytraceback) = check_NNTPS_server(newsserver, 563,1)
-		if error <> "":
-			output.append("NOK")
-			firsterror = error
-			firsttraceback = mytraceback
-		else:
-			output.append("OK")
+	# Collect results:
 
-		# Strict 2
-		(sslversion, welcomeline, error, mytraceback) = check_NNTPS_server(newsserver, 563,2)
-		if error <> "":
-			output.append("NOK")
-			firsterror = error
-			firsttraceback = mytraceback
-		else:
-			output.append("OK")
+	if firsterror <> "":
+		output.append(firsterror)
+	else:
+		output.append("-")
 
-
-		# Collect results:
-
-		if firsterror <> "":
-			output.append(firsterror)
-		else:
-			output.append("-")
-
-		if firsttraceback <> "":
-			output.append(firsttraceback)
-		else:
-			output.append("-")
+	if firsttraceback <> "":
+		output.append(firsttraceback)
+	else:
+		output.append("-")
 
 	#print output
 	# ... and print results in CSV format:
@@ -163,6 +140,6 @@ try:
 
 	
 except:
-	print "No input, no valid host, or other error"
+	print "No input, or other error"
 
 
