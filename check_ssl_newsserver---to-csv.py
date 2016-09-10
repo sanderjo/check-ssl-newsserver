@@ -80,7 +80,7 @@ try:
 #if True:
 	output = []
 
-	# Newsserver we want to checK
+	# Newsserver we want to check
 	newsserver = sys.argv[1]
 	socket.getaddrinfo(newsserver, 80)	# will generate an exception if it does not exist (read: resolve)
 
@@ -91,7 +91,7 @@ try:
 	firsterror = ""
 	firsttraceback = ""
 
-	# We do 3 levels of Strictness
+
 
 	try:
 		socket.getaddrinfo(newsserver, 80, socket.AF_INET)
@@ -105,10 +105,13 @@ try:
 		IPv6 = False
 
 
+
 	if IPv4 and IPv6: output.append("IPv4-IPv6")
 	if IPv4 and not IPv6: output.append("IPv4-only")
 	if not IPv4 and IPv6: output.append("IPv6-only")
 
+
+	# We do 3 levels of Strictness
 
 	# Strict 0
 	(sslversion, welcomeline, error, mytraceback) = check_NNTPS_server(newsserver, 563,0)
