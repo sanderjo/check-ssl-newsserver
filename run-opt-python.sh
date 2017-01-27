@@ -12,5 +12,5 @@ else
 fi
 
 
-cat header.csv newsservers-with-SSL.csv | csv2html > newsservers-with-SSL.htm
+cat header.csv newsservers-with-SSL.csv | csv2html > newsservers-with-SSL.html
 

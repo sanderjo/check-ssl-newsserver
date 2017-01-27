@@ -160,7 +160,7 @@ try:
 		else:
 			output.append("-")
 
-		output.append(welcomeline)
+		# output.append(welcomeline)		# safihre doesn't like this
 
 
 	#print output
