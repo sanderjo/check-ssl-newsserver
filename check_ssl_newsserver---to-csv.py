@@ -121,7 +121,6 @@ try:
 
 
 		output.append(sslversion)
-		output.append(welcomeline)
 		if error <> "":
 			output.append("NOK")
 			firsterror = error
@@ -160,6 +159,9 @@ try:
 			output.append(firsttraceback)
 		else:
 			output.append("-")
+
+		output.append(welcomeline)
+
 
 	#print output
 	# ... and print results in CSV format:

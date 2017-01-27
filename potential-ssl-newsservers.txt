@@ -1260,3 +1260,10 @@ www.news.extremeusenet.nl
 usnews.blocknews.net
 eunews.blocknews.net
 eunews2.blocknews.net
+newszilla.xs4all.nl
+newszilla6.xs4all.nl
+news.ziggo.nl
+news.kpn.nl
+highwinds.zeelandnet.nl
+news2.neva.ru
+
