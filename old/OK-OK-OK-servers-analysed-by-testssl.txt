@@ -1,0 +1,505 @@
+BEGIN
+download.gebruikhet.net
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m TLS 1               [mnot offered[1;31m -- connection failed rather than downgrading to SSLv3 (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+eu.bintube.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news1.usenet.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news4.usenet4u.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.4ux.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.altopia.com
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Heartbleed[m (CVE-2014-0160)                [1;31mVULNERABLE (NOT ok)[m
+END
+BEGIN
+news.anarqy.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 6 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m 40 Bit encryption            [m[1;31moffered (NOT ok)[m
+[1m Export Ciphers (general)     [m[1;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m FREAK[m (CVE-2015-0204)                     [1;31mVULNERABLE (NOT ok)[m, uses EXPORT RSA ciphers
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 6 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m[0;31mEXP-RC4-MD5 [m[0;31mEXP-RC4-MD5 [m
+END
+BEGIN
+news.budgetnews.net
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mECDHE-RSA-RC4-SHA [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.bulknews.eu
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.caiway.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.cheapnews.eu
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.easyusenet.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news-europe.giganews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.eweka.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.extremeusenet.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.forteinc.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.giganews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.hitnews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.maximumusenet.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+END
+BEGIN
+news.newsgrabber.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.newshosting.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.newsxs.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.powerusenet.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.pureusenet.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.smsusenet.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.sonic-news.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 6 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m 40 Bit encryption            [m[1;31moffered (NOT ok)[m
+[1m Export Ciphers (general)     [m[1;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m FREAK[m (CVE-2015-0204)                     [1;31mVULNERABLE (NOT ok)[m, uses EXPORT RSA ciphers
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 6 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m[0;31mEXP-RC4-MD5 [m[0;31mEXP-RC4-MD5 [m
+END
+BEGIN
+news.sunnyusenet.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.supernews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.tweaknews.eu
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.usenet2go.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.usenet.farm
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mECDHE-RSA-RC4-SHA [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.usenet.net
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.usenetserver.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.usenext.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.usenext.de
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.xennews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+news.xlned.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.easyusenet.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.i-telligent.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.newsconnection.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.newsxs.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.ssl-news.info
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.usenetbucket.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.usenetdiscounter.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Chain of trust[m               [1;31mNOT ok[m[1;31m:[m[0;31m Apple [m(chain incomplete)[0;31m Microsoft [m(chain incomplete)
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.xsnews.nl
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 1 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 1 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m
+END
+BEGIN
+reader.xsusenet.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+ssl.astraweb.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 7 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m 40 Bit encryption            [m[1;31moffered (NOT ok)[m
+[1m Export Ciphers (general)     [m[1;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m CCS[m (CVE-2014-0224)                       [1;31mVULNERABLE (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m FREAK[m (CVE-2015-0204)                     [1;31mVULNERABLE (NOT ok)[m, uses EXPORT RSA ciphers
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 7 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m[0;31mEXP-RC4-MD5 [m[0;31mEXP-RC4-MD5 [m
+END
+BEGIN
+ssl-eu.astraweb.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 7 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m CCS[m (CVE-2014-0224)                       [1;31mVULNERABLE (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 7 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mECDHE-RSA-RC4-SHA [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m[0;31mEXP-RC4-MD5 [m
+END
+BEGIN
+ssl.hitnews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+ssl-us.astraweb.com
+[1m SSLv2               [m[1;31moffered (NOT ok), also VULNERABLE to DROWN attack[m -- 7 ciphers
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m Low (<=64 Bit)               [m[1;31moffered (NOT ok)[m
+[1m DES Ciphers                  [m[1;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m CCS[m (CVE-2014-0224)                       [1;31mVULNERABLE (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m DROWN[m (2016-0800, CVE-2016-0703)          [1;31mVULNERABLE (NOT ok), SSLv2 offered with 7 ciphers[m
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mECDHE-RSA-RC4-SHA [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m[0;31mRC4-MD5 [m[0;31mEXP-RC4-MD5 [m
+END
+BEGIN
+ssl.xennews.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Has server cipher order?     [m[0;31mnope (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mECDHE-RSA-RC4-SHA [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
+BEGIN
+us.bintube.com
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+END
+BEGIN
+us.hitnews.com
+END
+BEGIN
+us.xennews.com
+END
+BEGIN
+www.news.extremeusenet.nl
+[1m SSLv3               [m[0;31moffered (NOT ok)[m
+[1m "Medium" grade encryption    [m[0;31moffered (NOT ok)[m
+[1m Secure Client-Initiated Renegotiation     [m[0;33mVULNERABLE (NOT ok)[m, potential DoS threat
+[1m POODLE, SSL[m (CVE-2014-3566)               [0;31mVULNERABLE (NOT ok)[m, uses SSLv3+CBC (check TLS_FALLBACK_SCSV mitigation below)
+[1m RC4[m (CVE-2013-2566, CVE-2015-2808)        [0;31mVULNERABLE (NOT ok): [m[0;31mRC4-SHA [m[0;31mRC4-MD5 [m
+END
