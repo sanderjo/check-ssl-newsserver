@@ -22,7 +22,10 @@ fi
 cat potential-ssl-newsservers.txt | tr "[A-Z]" "[a-z]" | sort -u > temp-newsservers-combined.txt
 
 
-# If there is a "/opt/python2711/bin/python" (Hello, Ubuntu 14.04), use that. Otherwise use plain python 
+
+# Now the actual SSL probing of all the (potential) newsservers in the list
+# We need a python 2.7.9+ for that, so we need a opt-python on old Ubuntu 14.04:
+# If there is a "/opt/python2711/bin/python", use that. Otherwise use plain python 
 
 if [ -f "/opt/python2711/bin/python" ];
 then
@@ -33,9 +36,10 @@ fi
 
 # OK, done with searching
 
-# Convert the CSV to HTML:
-cat header.csv newsservers-with-SSL.csv | csv2html > newsservers-with-SSL-noncolor.html
-# Convert "OK" to a green "OK", and "NOK" to a red "NOK":
+# Convert the CSV to HTML
+cat header.csv newsservers-with-SSL.csv | csv2html  > newsservers-with-SSL-noncolor.html
+
+# Add title, and colorize:
 python color-OK-and-NOK.py < newsservers-with-SSL-noncolor.html > newsservers-with-SSL.html
 
 if [ -d "/var/www/newsservers/" ]; then
