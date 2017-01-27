@@ -12,5 +12,5 @@ else
 fi
 
 
-cat header.csv newsservers-with-SSL.csv | csv2html > newsservers-with-SSL.html
-
+cat header.csv newsservers-with-SSL.csv | csv2html > newsservers-with-SSL-noncolor.html
+python color-OK-and-NOK.py < newsservers-with-SSL-noncolor.html > newsservers-with-SSL.html
