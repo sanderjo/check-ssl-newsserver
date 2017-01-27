@@ -15,7 +15,8 @@ cat manual-added-newsservers.txt >> potential-ssl-newsservers.txt
 # "GET /cgi-bin/check_newsserver.py?server=newsreader.eweka.nl HTTP/1.1"
 if [ -f "/var/log/apache2/access.log" ];
 then
-    cat /var/log/apache2/access.log | grep check_newsserver  | grep -o -P '(?<=server=)[a-zA-Z0-9_\-\.]*(?= )' | sort -u >> potential-ssl-newsservers.txt
+    cat /var/log/apache2/access.log | grep check_newsserver  | grep -o -P '(?<=server=)[a-zA-Z0-9_\-\.]*(?= )' | sort -u | grep "[a-zA-Z]" >> potential-ssl-newsservers.txt
+    # PS: 'grep "[a-zA-Z]" ' is needed to filter out IP-addresses.
 fi
 
 # List complete. Now convert to small letters, and do a unique sort:
