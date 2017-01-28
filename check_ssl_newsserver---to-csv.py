@@ -33,12 +33,21 @@ def check_NNTPS_server(servername,serverport,strict):
 				context.check_hostname = True
 			context.load_default_certs()
 
-		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-		s.settimeout(3)
+
 	except:
 		print "you need python 2.7.9 or higher!"
 		print traceback.format_exc()
 		
+
+	try:
+		socket.getaddrinfo(newsserver, 80, socket.AF_INET)
+		# IPv4 address found
+		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+	except:
+		# No IPv4 address found, so let's try IPv6
+		s = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
+
+	s.settimeout(3)
 
 	try:
 		ssl_sock = context.wrap_socket(s, server_hostname=servername)
