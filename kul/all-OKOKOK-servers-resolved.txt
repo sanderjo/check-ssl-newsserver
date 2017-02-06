@@ -1,0 +1,60 @@
+download.gebruikhet.net has address 94.232.116.126 download.gebruikhet.net has IPv6 address 2001:67c:174:101:0:65:ff02:126 
+eu.bintube.com is an alias for eu2.bintube.com. eu2.bintube.com has address 81.171.118.143 eu2.bintube.com has address 81.171.92.221 eu2.bintube.com has address 81.171.92.235 eu2.bintube.com has address 81.171.118.145 eu2.bintube.com has address 81.171.118.144 
+eunews2.blocknews.net is an alias for blocknews-ams.sslusenet.com. blocknews-ams.sslusenet.com has address 81.171.92.240 
+eunews.blocknews.net is an alias for blocknews-fr.sslusenet.com. blocknews-fr.sslusenet.com has address 81.171.118.180 
+news1.usenet.nl is an alias for usenet-nl-ul.iad.newshosting.com. usenet-nl-ul.iad.newshosting.com has address 81.171.118.158 usenet-nl-ul.iad.newshosting.com has address 81.171.118.159 usenet-nl-ul.iad.newshosting.com has address 81.171.118.160 
+news4.usenet4u.nl has address 81.171.92.187 
+news.4ux.nl has address 91.234.215.192 
+news.altopia.com has address 208.90.168.18 
+news.anarqy.com has address 151.80.78.55 
+news.budgetnews.net is an alias for budgetnews.svc.highwinds-media.com. budgetnews.svc.highwinds-media.com has address 81.171.92.193 budgetnews.svc.highwinds-media.com has address 81.171.118.174 
+news.bulknews.eu has address 78.152.60.164 news.bulknews.eu has IPv6 address 2a02:d28:10:1c:0:407:ff02:164 
+news.caiway.nl is an alias for news.kabelfoon.nl. news.kabelfoon.nl has address 91.223.220.18 
+news.cheapnews.eu has address 78.152.55.164 news.cheapnews.eu has IPv6 address 2a02:d28:10:1b:0:431:ff02:164 
+news.easyusenet.nl is an alias for reader.easyusenet.nl. reader.easyusenet.nl has address 94.232.116.128 
+news-europe.giganews.com has address 216.166.105.144 
+news.eweka.nl has address 81.171.92.219 news.eweka.nl has address 81.171.92.233 news.eweka.nl has address 81.171.92.205 
+news.extremeusenet.nl has address 85.12.14.12 news.extremeusenet.nl has address 85.12.14.11 
+news.forteinc.com is an alias for forte.easynews.com. forte.easynews.com is an alias for forte.ams.easynews.com. forte.ams.easynews.com has address 81.171.92.195 
+news.frugalusenet.com is an alias for frugalusenet-us.sslusenet.com. frugalusenet-us.sslusenet.com has address 69.16.179.48 
+news.giganews.com has address 216.166.105.131 
+news.hitnews.com is an alias for hitnews.svc.highwinds-media.com. hitnews.svc.highwinds-media.com has address 81.171.118.175 hitnews.svc.highwinds-media.com has address 81.171.92.192 
+news.maximumusenet.com has address 185.151.12.54 
+news.newsgrabber.nl is an alias for newsgrabber.hostredirects.com. newsgrabber.hostredirects.com has address 91.223.220.40 
+news.newsgroupdirect.com has address 185.151.12.53 
+news.newshosting.com is an alias for news.ams.newshosting.com. news.ams.newshosting.com has address 81.171.92.238 news.ams.newshosting.com has address 81.171.92.224 
+news.newsxs.nl has address 94.232.116.122 
+news.powerusenet.com has address 216.166.105.161 
+news.pureusenet.nl has address 85.12.14.51 news.pureusenet.nl has address 85.12.14.52 
+news.smsusenet.nl has address 94.232.116.138 
+news.sonic-news.com has address 151.80.78.54 
+news.sunnyusenet.com has address 85.12.14.41 news.sunnyusenet.com has address 85.12.14.42 
+news.supernews.com has address 138.199.68.130 
+news.tweaknews.eu has address 176.124.71.34 
+news.usenet2go.com has address 91.223.220.57 
+news.usenet.farm has address 178.20.174.131 news.usenet.farm has IPv6 address 2a00:1d38:fa:105::119 
+news.usenet.net has address 216.166.105.171 
+news.usenetserver.com is an alias for news.ams.usenetserver.com. news.ams.usenetserver.com has address 81.171.92.239 news.ams.usenetserver.com has address 81.171.92.225 
+news.usenext.com has address 91.234.215.195 
+news.usenext.de has address 91.234.215.196 
+news.xennanews.com has address 94.232.116.114 news.xennanews.com has IPv6 address 2001:67c:174:101::1002 
+news.xennews.com is an alias for xennews.svc.highwinds-media.com. xennews.svc.highwinds-media.com has address 81.171.92.194 xennews.svc.highwinds-media.com has address 81.171.118.173 
+news.xlned.com has address 85.12.14.32 news.xlned.com has address 85.12.14.31 
+news.yabnews.nl has address 94.232.116.127 
+reader.easyusenet.nl has address 94.232.116.128 
+reader.i-telligent.com has address 91.234.215.206 reader.i-telligent.com mail is handled by 5 smtp.rzone.de. 
+reader.newsxs.nl has address 94.232.116.122 
+reader.ssl-news.info has address 94.232.116.141 
+reader.usenetdiscounter.com has address 78.152.60.165 reader.usenetdiscounter.com has IPv6 address 2a02:d28:10:1c:0:407:ff02:165 
+reader.xsnews.nl has address 94.232.116.131 
+reader.xsusenet.com has address 81.171.92.188 
+ssl.astraweb.com has address 91.208.207.43 ssl.astraweb.com has address 193.202.122.164 ssl.astraweb.com has address 193.202.122.138 ssl.astraweb.com has address 91.208.207.44 ssl.astraweb.com has address 193.202.122.65 ssl.astraweb.com has address 193.202.122.150 ssl.astraweb.com has address 193.202.122.142 ssl.astraweb.com has address 91.208.207.154 
+ssl-eu.astraweb.com has address 193.202.122.145 ssl-eu.astraweb.com has address 193.202.122.138 ssl-eu.astraweb.com has address 91.208.207.151 ssl-eu.astraweb.com has address 193.202.122.115 ssl-eu.astraweb.com has address 193.202.122.143 ssl-eu.astraweb.com has address 91.208.207.155 ssl-eu.astraweb.com has address 193.202.122.150 ssl-eu.astraweb.com has address 193.202.122.146 
+ssl.hitnews.com is an alias for hitnews.svc.highwinds-media.com. hitnews.svc.highwinds-media.com has address 81.171.92.192 hitnews.svc.highwinds-media.com has address 81.171.118.175 
+ssl-us.astraweb.com has address 8.17.249.103 ssl-us.astraweb.com has address 207.246.207.125 ssl-us.astraweb.com has address 216.151.153.127 ssl-us.astraweb.com has address 8.17.249.109 ssl-us.astraweb.com has address 216.151.153.47 ssl-us.astraweb.com has address 216.151.153.83 ssl-us.astraweb.com has address 207.246.207.162 ssl-us.astraweb.com has address 216.151.153.82 
+ssl.xennews.com is an alias for xennews.svc.highwinds-media.com. xennews.svc.highwinds-media.com has address 81.171.92.194 xennews.svc.highwinds-media.com has address 81.171.118.173 
+us.bintube.com is an alias for us3.bintube.com. us3.bintube.com has address 69.16.179.24 us3.bintube.com has address 69.16.179.25 
+us.hitnews.com is an alias for hitnews.svc.highwinds-media.com. hitnews.svc.highwinds-media.com has address 81.171.92.192 hitnews.svc.highwinds-media.com has address 81.171.118.175 
+usnews.blocknews.net is an alias for blocknews-us.sslusenet.com. blocknews-us.sslusenet.com has address 69.16.179.50 
+us.xennews.com is an alias for xennews.svc.highwinds-media.com. xennews.svc.highwinds-media.com has address 81.171.92.194 xennews.svc.highwinds-media.com has address 81.171.118.173 
+www.news.extremeusenet.nl is an alias for news.extremeusenet.nl. news.extremeusenet.nl has address 85.12.14.12 news.extremeusenet.nl has address 85.12.14.11 

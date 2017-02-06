@@ -38,6 +38,7 @@ fi
 # OK, done with searching
 
 # Convert the CSV to HTML
+# NB: we need csv2html from "sudo npm install csv2html -g" for that
 cat header.csv newsservers-with-SSL.csv | csv2html  > newsservers-with-SSL-noncolor.html
 
 # Add title, and colorize:
