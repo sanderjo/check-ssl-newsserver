@@ -37,15 +37,19 @@ fi
 
 # OK, done with searching
 
+# Sort on domain
+cat newsservers-with-SSL.csv | python sort-csv-on-domain.py > newsservers-with-SSL---sorted.csv
+
+
 # Convert the CSV to HTML
-# NB: we need csv2html from "sudo npm install csv2html -g" for that
-cat header.csv newsservers-with-SSL.csv | csv2html  > newsservers-with-SSL-noncolor.html
+cat header.csv newsservers-with-SSL---sorted.csv | csv2html  > newsservers-with-SSL-noncolor.html
 
 # Add title, and colorize:
 python color-OK-and-NOK.py < newsservers-with-SSL-noncolor.html > newsservers-with-SSL.html
 
 if [ -d "/var/www/newsservers/" ]; then
   cp newsservers-with-SSL* /var/www/newsservers/
+  cp newsservers-with-SSL.csv /var/www/newsservers/newsservers-with-SSL---`date +%F`.csv
 fi
 
 
