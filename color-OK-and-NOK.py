@@ -1,10 +1,16 @@
 #!/usr/bin/env python
 
 import fileinput
+import datetime
+now = datetime.datetime.now()
+todaydate = now.strftime("%Y-%m-%d")
+#print todaydate
+
 
 for line in fileinput.input():
 	# in the head, insert title:
-	line = line.replace('<head>', '<head><title>Overview of SSL NNTPS newservers, and their level of security</title>')
+        
+	line = line.replace('<head>', '<head><title>Overview of SSL NNTPS newservers, and their level of security, as of ' + todaydate + '</title>')
 
 	# colorize OK and NOK:
 	if line.find("NOK") >= 0:
